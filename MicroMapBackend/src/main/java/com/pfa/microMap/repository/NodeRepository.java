@@ -1,6 +1,6 @@
-package com.pfa.infiniteCallFlows.repository;
+package com.pfa.microMap.repository;
 
-import com.pfa.infiniteCallFlows.model.MyNode;
+import com.pfa.microMap.model.MyNode;
 import org.springframework.data.neo4j.repository.Neo4jRepository;
 import org.springframework.data.neo4j.repository.query.Query;
 

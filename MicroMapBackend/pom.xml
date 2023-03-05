@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pfa</groupId>
-	<artifactId>simplifyBack</artifactId>
+	<artifactId>microMapBack</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>simplifyBack</name>
-	<description>Neo4j project to visulise microservices traffic callflow</description>
+	<name>microMapBack</name>
+	<description>Microservices architecture mapping with Neo4j, Terraform and AWS</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

@@ -1,4 +1,4 @@
-package com.pfa.infiniteCallFlows.model;
+package com.pfa.microMap.model;
 
 import org.springframework.data.neo4j.core.schema.GeneratedValue;
 import org.springframework.data.neo4j.core.schema.Id;

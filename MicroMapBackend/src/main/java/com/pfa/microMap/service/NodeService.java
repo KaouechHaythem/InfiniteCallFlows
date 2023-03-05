@@ -1,7 +1,7 @@
-package com.pfa.infiniteCallFlows.service;
+package com.pfa.microMap.service;
 
-import com.pfa.infiniteCallFlows.model.MyNode;
-import com.pfa.infiniteCallFlows.repository.NodeRepository;
+import com.pfa.microMap.model.MyNode;
+import com.pfa.microMap.repository.NodeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
